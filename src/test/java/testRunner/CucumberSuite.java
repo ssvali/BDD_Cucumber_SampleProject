@@ -46,7 +46,7 @@ public class CucumberSuite {
     public void after_scenario(Scenario scenario) throws Exception {
         try {
             String TCNum = scenario.getName().substring(scenario.getName().length()-8);
-            if(scenario.getName().equalsIgnoreCase("Verify changing asset icon size on the floor using icon zoom slider on the tool bar - CAR-404")){
+            if(scenario.getName().equalsIgnoreCase(" ")){
 
             }
             if(scenario.getStatus().equalsIgnoreCase("failed"))	{
