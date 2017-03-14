@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testRunner.RunnerTest" duration-ms="1425" started-at="2017-03-14T03:47:38Z" finished-at="2017-03-14T03:47:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test ad78d550-a4cf-470a-8975-44a2a2c17d4a" duration-ms="1425" started-at="2017-03-14T03:47:38Z" finished-at="2017-03-14T03:47:40Z">
+    </test> <!-- Command line test ad78d550-a4cf-470a-8975-44a2a2c17d4a -->
+  </suite> <!-- testRunner.RunnerTest -->
+</testng-results>
